@@ -41,7 +41,7 @@
 <br>
 
 <details>
-  <summary><b>୨୧ My Skills</b></summary>
+  <summary><b>My Skills</b></summary>
 
   <br>
 
@@ -56,7 +56,7 @@
 <p align="center">
   <img src="https://media.tenor.com/5qFJf4QyQ5AAAAAC/anime-sparkle.gif" width="100">
   <br>
-  <b>thanks for visiting! ♡</b>
+  <b>thanks for visiting</b>
   <br>
-  <sub>₊˚⊹ keep being yourself ⊹˚₊</sub>
+  <sub>keep being yourself</sub>
 </p>
